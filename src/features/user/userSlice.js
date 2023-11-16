@@ -3,7 +3,6 @@ import customFetch from "../../utils/axios";
 import { toast } from "react-toastify";
 import {
   addUserToLocalStorage,
-  // getStorageTheme,
   getUserFromLocalStorage,
   removeUserFromLocalStorage,
 } from "../../utils/localStorage";
